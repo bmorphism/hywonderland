@@ -1,4 +1,4 @@
-# A Tour in the Wonderland of Math with Python
+# A Tour in the Wonderland of Math with P̶y̶t̶h̶o̶n̶ Hylang!
 
 > **A collection of python scripts for drawing beautiful figures and animating interesting algorithms in mathematics**.
 
